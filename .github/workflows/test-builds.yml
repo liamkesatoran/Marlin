@@ -80,7 +80,10 @@ jobs:
         - mks_robin_pro
         - STM32F103RET6_creality
         - LERDGEX
-        - mks_robin_nano35
+        - mks_robin_nano35_stm32
+        - NUCLEO_F767ZI
+        - REMRAM_V1
+        - BTT_SKR_SE_BX
 
         # Put lengthy tests last
 
